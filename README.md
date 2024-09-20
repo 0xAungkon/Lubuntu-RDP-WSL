@@ -20,10 +20,10 @@ Note: Nothing to worry.
   - `git clone https://github.com/0xAungkon/Lubuntu-RDP-WSL` run this
   - `cd Lubuntu-RDP-WSL` run this
   - `docker build -f Dockerfile -t docker-xrdp-lubuntu` run this
-  - `docker run -dit -name lubuntu docker-xrdp-lubuntu`
-  - `docker export --output=lubuntu-wsl.tar lubuntu`
-  - `wsl.exe --import lubuntu . lubuntu-wsl.tar`
-  - Connect via rdp user=`testuser` pwd=`1234`
+  - `docker run -dit -name lubuntu docker-xrdp-lubuntu` run this
+  - `docker export --output=lubuntu-wsl.tar lubuntu` run this
+  - `wsl.exe --import lubuntu . lubuntu-wsl.tar` run this
+  - Connect via rdp user=`testuser` pwd=`1234` 
   
   Note: Docker Must have Installed. 
 
