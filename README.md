@@ -13,6 +13,7 @@ WSL Should Be Installed.
  - Download the file `https://drive.google.com/file/d/1u_78L3IX2YMZMrPfpyqTYshSgx4qt0BS/view?usp=sharing`
  - Paste to the terminal `wsl.exe --import lubuntu . lubuntu-wsl.tar`
  - Connect via rdp user=`testuser` pwd=`1234`
+   
 Note: Nothing to worry.
 
  ## Build From Scrach:
