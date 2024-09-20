@@ -3,7 +3,7 @@
 
 Lubuntu Ubuntu Desktop Over WSL with RDP Support , it does support docker as well. 
 ## Pre-Requirements:
-<!-- WSL Should Be Installed -->
+WSL Should Be Installed.
 
 
 ## Easy Method:
